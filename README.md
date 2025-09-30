@@ -18,8 +18,8 @@ Frontend:
 ## Installation 
 
 1. Clone the repository
-git clone https://github.com/sanjat80/Transaction-Management-System.git
-cd backend
+- git clone https://github.com/sanjat80/Transaction-Management-System.git
+- cd backend
 
 2. Backend Setup
 - Open TransactionManagementSystem.sln in Visual Studio 2022

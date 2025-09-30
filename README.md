@@ -211,7 +211,6 @@ frontend/
 └── README.md              # Project documentation
 
 #### Configurations
-```text
 src/
 ├── config/
 │   └── api.js             # Backend API configuration (base URL, endpoints)
@@ -219,7 +218,6 @@ src/
 Purpose: Centralized configuration for API communication. Contains:
 Base URL of the backend (http://localhost:5211)
 
-```text
 src/
 ├── api/
 │   └── transactionApi.js  # Axios-based API calls to backend
@@ -229,7 +227,6 @@ Purpose: Handles all HTTP communication with the backend using Axios. Contains:
 2. createTransaction() - Sends new transaction to backend
 Automatic error handling and response parsing.
 
-```text
 src/
 ├── components/            # Reusable UI components
 │   ├── TransactionList.js    # Displays list of transactions

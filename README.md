@@ -157,13 +157,14 @@ Creates new transaction and adds it to the csv file.
 Request example:
 
 ```json
+[
 {
   "transactionDate": "2025-09-30T11:24:11.878Z",
   "accountNumber": "0822-3121-2678",
   "accountHolderName": "Example account holder",
   "amount": 100.00
 }
-
+]
 ## Manual Testing:
 1. Start both backend and frontend
 2. Open http://localhost:3000 in browser

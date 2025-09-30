@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "pvSFzJc/MoZgk8iSwJs3qd5RtiR5MXSvy1pxfOgthuk=",
+  "Source": "TransactionManagementSystem",
+  "BasePath": "_content/TransactionManagementSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

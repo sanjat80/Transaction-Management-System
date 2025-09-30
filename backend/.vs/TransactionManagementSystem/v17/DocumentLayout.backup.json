@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|c:\\users\\sanja.tica\\desktop\\freetime\\transaction_management_system\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|c:\\users\\sanja.tica\\desktop\\freetime\\transaction_management_system\\backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|c:\\users\\sanja.tica\\desktop\\freetime\\transaction_management_system\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|c:\\users\\sanja.tica\\desktop\\freetime\\transaction_management_system\\backend\\services\\transactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|solutionrelative:services\\transactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|c:\\users\\sanja.tica\\desktop\\freetime\\transaction_management_system\\backend\\services\\contracts\\itransactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|solutionrelative:services\\contracts\\itransactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|c:\\users\\sanja.tica\\desktop\\freetime\\transaction_management_system\\backend\\repositories\\transactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|solutionrelative:repositories\\transactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|c:\\users\\sanja.tica\\desktop\\freetime\\transaction_management_system\\backend\\repositories\\contracts\\itransactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|solutionrelative:repositories\\contracts\\itransactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|c:\\users\\sanja.tica\\desktop\\freetime\\transaction_management_system\\backend\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|c:\\users\\sanja.tica\\desktop\\freetime\\transaction_management_system\\backend\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|solutionrelative:models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|c:\\users\\sanja.tica\\desktop\\freetime\\transaction_management_system\\backend\\models\\mappers\\transactionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|solutionrelative:models\\mappers\\transactionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|c:\\users\\sanja.tica\\desktop\\freetime\\transaction_management_system\\backend\\models\\dtos\\transactioncreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|solutionrelative:models\\dtos\\transactioncreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|c:\\users\\sanja.tica\\desktop\\freetime\\transaction_management_system\\backend\\exceptions\\transactiondataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|solutionrelative:exceptions\\transactiondataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|c:\\users\\sanja.tica\\desktop\\freetime\\transaction_management_system\\backend\\exceptions\\transactionapiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|solutionrelative:exceptions\\transactionapiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|c:\\users\\sanja.tica\\desktop\\freetime\\transaction_management_system\\backend\\exceptions\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|solutionrelative:exceptions\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|c:\\users\\sanja.tica\\desktop\\freetime\\transaction_management_system\\backend\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|solutionrelative:controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|c:\\users\\sanja.tica\\desktop\\freetime\\transaction_management_system\\backend\\repositories\\data\\data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|solutionrelative:repositories\\data\\data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|c:\\users\\sanja.tica\\desktop\\freetime\\transaction_management_system\\backend\\transactionmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A6D5257-2FD7-B906-1187-B3DED25D10B1}|TransactionManagementSystem.csproj|solutionrelative:transactionmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1723,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITransactionManager.cs",
+              "DocumentMoniker": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Services\\Contracts\\ITransactionManager.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\ITransactionManager.cs",
+              "ToolTip": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Services\\Contracts\\ITransactionManager.cs",
+              "RelativeToolTip": "Services\\Contracts\\ITransactionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:02:50.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionManager.cs",
+              "DocumentMoniker": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Services\\TransactionManager.cs",
+              "RelativeDocumentMoniker": "Services\\TransactionManager.cs",
+              "ToolTip": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Services\\TransactionManager.cs",
+              "RelativeToolTip": "Services\\TransactionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:00:46.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T12:02:57.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T12:03:00.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:08:10.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionManager.cs",
+              "DocumentMoniker": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Repositories\\TransactionManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\TransactionManager.cs",
+              "ToolTip": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Repositories\\TransactionManager.cs",
+              "RelativeToolTip": "Repositories\\TransactionManager.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAwEwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:21:04.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITransactionManager.cs",
+              "DocumentMoniker": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Repositories\\Contracts\\ITransactionManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\ITransactionManager.cs",
+              "ToolTip": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Repositories\\Contracts\\ITransactionManager.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\ITransactionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:51:41.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "Models\\Status.cs",
+              "ToolTip": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Models\\Status.cs",
+              "RelativeToolTip": "Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:03:17.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactionMapper.cs",
+              "DocumentMoniker": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Models\\Mappers\\TransactionMapper.cs",
+              "RelativeDocumentMoniker": "Models\\Mappers\\TransactionMapper.cs",
+              "ToolTip": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Models\\Mappers\\TransactionMapper.cs",
+              "RelativeToolTip": "Models\\Mappers\\TransactionMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:50:20.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionCreationDto.cs",
+              "DocumentMoniker": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Models\\Dtos\\TransactionCreationDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\TransactionCreationDto.cs",
+              "ToolTip": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Models\\Dtos\\TransactionCreationDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\TransactionCreationDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:50:24.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransactionDataException.cs",
+              "DocumentMoniker": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Exceptions\\TransactionDataException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\TransactionDataException.cs",
+              "ToolTip": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Exceptions\\TransactionDataException.cs",
+              "RelativeToolTip": "Exceptions\\TransactionDataException.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAgAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:06:37.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:56:41.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransactionApiException.cs",
+              "DocumentMoniker": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Exceptions\\TransactionApiException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\TransactionApiException.cs",
+              "ToolTip": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Exceptions\\TransactionApiException.cs",
+              "RelativeToolTip": "Exceptions\\TransactionApiException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:06:36.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Exceptions\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Exceptions\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Exceptions\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Exceptions\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:04:49.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:02:43.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "data.csv",
+              "DocumentMoniker": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Repositories\\Data\\data.csv",
+              "RelativeDocumentMoniker": "Repositories\\Data\\data.csv",
+              "ToolTip": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\Repositories\\Data\\data.csv",
+              "RelativeToolTip": "Repositories\\Data\\data.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-09-30T10:55:18.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TransactionManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\TransactionManagementSystem.csproj",
+              "RelativeDocumentMoniker": "TransactionManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\sanja.tica\\Desktop\\freetime\\transaction_management_system\\backend\\TransactionManagementSystem.csproj",
+              "RelativeToolTip": "TransactionManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-29T14:21:37.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 328,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 270,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -225,15 +225,17 @@ src/
 ├── api/
 │   └── transactionApi.js  # Axios-based API calls to backend
 ```
+
 Purpose: Handles all HTTP communication with the backend using Axios. Contains:
 1. getAllTransactions() - Fetches all transactions from backend
 2. createTransaction() - Sends new transaction to backend
 Automatic error handling and response parsing.
+
 ```text
 src/
-├── components/            # Reusable UI components
+├── components/               # Reusable UI components
 │   ├── TransactionList.js    # Displays list of transactions
 │   ├── TransactionForm.js    # Form for adding new transactions
-│   └── (other components)    # Additional UI elements
 ```
+
 Purpose: Modular React components following component-based architecture.

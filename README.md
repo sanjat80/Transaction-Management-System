@@ -25,7 +25,7 @@ Frontend:
 - The solution should automatically restore NuGet packages
 All required .NET packages are included in the project file.
 
-The backend shpuld be available at http://localhost:5211, with API endpoints accessible through Swagger at /swagger.
+The backend should be available at http://localhost:5211, with API endpoints accessible through Swagger at /swagger.
 
 3. Frontend Setup
 - cd frontend
@@ -37,11 +37,13 @@ The frontend should be available at http://localhost:3000.
 Backend:
 - No environment variables needed
 - CSV file is located within the solution at: Repositories/Data/data.csv
-All configuration is handled in appsettings.json. Transactions are stored in a CSV file located within the same solution as the project itself. New transactions are simply appended, without modifying the existing one
+
+All configuration is handled in appsettings.json. Transactions are stored in a CSV file located within the same solution as the project itself. New transactions are simply appended, without modifying the existing one.
 
 Frontend:
 - No special configuration required
 - Transactions Management API URL is configured in src/config.js
+- 
 New transactions should be displayed inside existing table as soon as they are added.
 
 ## Running the Application
@@ -157,14 +159,12 @@ Creates new transaction and adds it to the csv file.
 Request example:
 
 ```json
-[
 {
   "transactionDate": "2025-09-30T11:24:11.878Z",
   "accountNumber": "0822-3121-2678",
   "accountHolderName": "Example account holder",
   "amount": 100.00
 }
-]
 ```
 ## Manual Testing:
 1. Start both backend and frontend
@@ -188,6 +188,7 @@ It has its own contract (an interface) that defines the basic methods for readin
 
 #### Services – Business Logic Layer
 In this specific case, there is no advanced or complex business logic, since the functionalities are simple. However, in the case of more complex systems, this is where the processing of data received from the repository layer would take place.
+
 Specifically, this service supplements the transactions created by the user by randomly assigning one of the three possible transaction statuses. It also has its own contract and its implementation.
 
 #### Controllers – Endpoints Layer
@@ -204,7 +205,7 @@ This folder is being used to save different types of exception that could possib
 ### Frontend
 ```text
 frontend/
-├── public/                 # Static assets served by web server
+├── public/                # Static assets served by web server
 ├── src/                   # Source code - main application logic
 ├── package.json           # Project dependencies and scripts
 ├── package-lock.json      # Exact dependency versions

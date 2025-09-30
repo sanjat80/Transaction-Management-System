@@ -150,7 +150,7 @@ Response:
     "status": "Settled"
   }
 ]
-
+```
 2. POST (new transaction data are being sent through RequestBody)
 Creates new transaction and adds it to the csv file.
 
@@ -165,6 +165,7 @@ Request example:
   "amount": 100.00
 }
 ]
+```
 ## Manual Testing:
 1. Start both backend and frontend
 2. Open http://localhost:3000 in browser

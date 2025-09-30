@@ -25,13 +25,13 @@ Frontend:
 - The solution should automatically restore NuGet packages
 All required .NET packages are included in the project file.
 
-The backend is available at http://localhost:5211, with API endpoints accessible through Swagger at /swagger.
+The backend shpuld be available at http://localhost:5211, with API endpoints accessible through Swagger at /swagger.
 
 3. Frontend Setup
 - cd frontend
 - npm install (This will install all dependencies including React and other libraries (all required packages are in package.json))
 
-The frontend is available at http://localhost:8080.
+The frontend should be available at http://localhost:3000.
 
 ## Configuration
 Backend:

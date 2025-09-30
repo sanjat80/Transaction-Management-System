@@ -19,17 +19,18 @@ Frontend:
 
 1. Clone the repository
 - git clone https://github.com/sanjat80/Transaction-Management-System.git
-- cd backend
 
 2. Backend Setup
 - Open TransactionManagementSystem.sln in Visual Studio 2022
 - The solution should automatically restore NuGet packages
 All required .NET packages are included in the project file.
+
 The backend is available at http://localhost:5211, with API endpoints accessible through Swagger at /swagger.
 
 3. Frontend Setup
 - cd frontend
 - npm install (This will install all dependencies including React and other libraries (all required packages are in package.json))
+
 The frontend is available at http://localhost:8080.
 
 ## Configuration

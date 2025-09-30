@@ -63,6 +63,7 @@ Endpoints:
 Returns all data from CSV file.
 
 Response:
+```json
 [
   {
     "transactionDate": "2025-03-01T00:00:00",
@@ -155,6 +156,7 @@ Creates new transaction and adds it to the csv file.
 
 Request example:
 
+```json
 {
   "transactionDate": "2025-09-30T11:24:11.878Z",
   "accountNumber": "0822-3121-2678",
@@ -198,6 +200,7 @@ A separate folder contains the models used across the application, accessible to
 This folder is being used to save different types of exception that could possibly happen while running this application, including exception handling middleware. This middleware wraps the execution of all incoming HTTP requests, and if something goes wrong while processing the request, it catches the exception before it reaches the client. 
 
 ### Frontend
+```text
 frontend/
 ├── public/                 # Static assets served by web server
 ├── src/                   # Source code - main application logic
@@ -206,6 +209,7 @@ frontend/
 └── README.md              # Project documentation
 
 #### Configurations
+```text
 src/
 ├── config/
 │   └── api.js             # Backend API configuration (base URL, endpoints)
@@ -213,6 +217,7 @@ src/
 Purpose: Centralized configuration for API communication. Contains:
 Base URL of the backend (http://localhost:5211)
 
+```text
 src/
 ├── api/
 │   └── transactionApi.js  # Axios-based API calls to backend
@@ -222,6 +227,7 @@ Purpose: Handles all HTTP communication with the backend using Axios. Contains:
 2. createTransaction() - Sends new transaction to backend
 Automatic error handling and response parsing.
 
+```text
 src/
 ├── components/            # Reusable UI components
 │   ├── TransactionList.js    # Displays list of transactions
